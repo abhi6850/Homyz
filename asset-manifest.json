@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Homyz/static/css/main.15fda300.css",
-    "main.js": "/Homyz/static/js/main.f38564e9.js",
+    "main.js": "/Homyz/static/js/main.2453629b.js",
     "static/js/453.d610f48b.chunk.js": "/Homyz/static/js/453.d610f48b.chunk.js",
     "index.html": "/Homyz/index.html",
     "main.15fda300.css.map": "/Homyz/static/css/main.15fda300.css.map",
-    "main.f38564e9.js.map": "/Homyz/static/js/main.f38564e9.js.map",
+    "main.2453629b.js.map": "/Homyz/static/js/main.2453629b.js.map",
     "453.d610f48b.chunk.js.map": "/Homyz/static/js/453.d610f48b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15fda300.css",
-    "static/js/main.f38564e9.js"
+    "static/js/main.2453629b.js"
   ]
 }
