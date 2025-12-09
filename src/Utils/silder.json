@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Green Nest",
+    "price": "52,75,000",
+    "detail": "Kharghar, Mumbai",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Lakeview",
+    "price": "68,90,000",
+    "detail": "Whitefield, Bengaluru",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sunrise",
+    "price": "43,20,000",
+    "detail": "Raj Nagar, Ghaziabad",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Palm Villa",
+    "price": "59,40,000",
+    "detail": "Sholinganallur, Chennai",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Orchid",
+    "price": "75,10,000",
+    "detail": "New Town, Kolkata",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Maple Home",
+    "price": "49,85,000",
+    "detail": "SG Highway, Ahmedabad",
+    "image": "./r3.png"
+  }
+]
